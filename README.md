@@ -1,6 +1,6 @@
 <div align="center">
 
-# ClearVision v6
+# ArthurShelby v1
 
 ![v6 Sapphire](https://github.com/Zerthox/ClearVision/raw/master/screenshots/v6.png)
 
