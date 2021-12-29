@@ -1,0 +1,42 @@
+/**
+* @name ArthurShelby
+* @version 1
+* @description Based on Frosted Glass - Edited by 'Kr0kss#0001
+* @author 'Kr0kss#0001
+* @authorId 473228282293125120
+* @invite pN4XHAuyee
+* @website https://kr0kss.pt
+* @source https://github.com/kr0kss/ArthurShelbyBTD
+*/
+@import url("https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css");
+:root {
+--background-image: url('https://i.imgur.com/GNAdlWM.jpg');
+--background-image-blur: 0px;
+--background-image-size: cover;
+--background-image-position: right;
+--popout-modal-image: url('https://i.imgur.com/rZ4majJ.jpg');
+--popout-modal-blur: 0px;
+--popout-modal-size: contain;
+--popout-modal-position: bottom;
+/*--home-button-image: url('https://discordstyles.github.io/FrostedGlass/assets/discord.svg');
+--home-button-size: cover;
+--home-button-position: center;*/
+--serverlist-brightness: 0.35;
+--left-brightness: 0.35;
+--middle-brightness: 0.6;
+--right-brightness: 0.35;
+--popout-modal-brightness: 0.35;
+--gradient-primary: 0,0,0;
+--gradient-secondary: 59,56,56;
+--gradient-direction: 320deg;
+--tint-colour: 35,36,41;
+--tint-brightness: 0;
+--window-padding: 0px;
+--window-roundness: 0px;
+--scrollbar-colour: #ffffff0d;
+--link-colour: #00b0f4;
+--show-gift-gif-buttons: block;
+--font: 'Whitney';
+--update-notice-1: none;
+--Theme-Variant: " Peaky Blinders - Arthur Shelby | Made by 'Kr0kss#0001";
+}
